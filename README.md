@@ -27,7 +27,14 @@ Having got an inspiration from the remote sensing and crowdsourcing applications
 
 
 ## Objectives and aims <a name="paragraph1"></a>
-The first paragraph text
+The general aim of the project is to integrate remote sensing, machine learning and crowdsourcing in archaeological prospection, and it can be separated in detail as following:
+1. Create a Matlab tool for “Similar-image search” for VHR satellite images in visible band. This tool will enable users to discover unmapped or unmappable “patterns of archaeological object or protected areas”;
+2. Summarize the visible archaeological sites from different civilizations, and examining the similarities and relation among them. 
+3. Build a website platform for volunteers, such as archaeologists, citizen scientists, humanitarian agencies, urban planners and other researchers, to generate and validate parts of detections of hitherto unknown archaeological objects. In the future, this platform is expected to satisfy the function like satellite image data exchange;
+4. Update the tool and website on labelled data from volunteers. The labelled data from volunteers will be used to train a convolutional neural network to systematically identify similar archaeological objects/features;
+5. Enhance awareness and better protection of the archaeological relics directly through the involvement of the public, especially countries like Afghan, a country so divided (its cultural heritage is considered to be a key to economic development and be critical for a strong national identity).
+6. Generate two articles from the result of this project.
+
 
 ## Theoretical Frame <a name="paragraph2"></a>
 The second paragraph text
