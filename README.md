@@ -12,18 +12,20 @@
 
 ## Introduction <a name="introduction"></a>
 How people interpret the visual world is a mixture of perception and comprehension. Everyone’ eyes use their own unique “lens” providing them with a completely different perception to sense the surrounding world. However, the scientific laws by which the Earth is observed are immutable. Every landscape result from certain environmental and anthropogenic factors. Similar things affect satellite imagery, which enables space archaeologists to observe and manually mark potential archaeological objects in the satellite images by obeying the “laws”.
-
+</br>
 
 There are some unavoidable limitations in this human-scale approach for archaeological object detection, which can be summarized as three parts. 
-1. *It cannot handle the sheer quantity of available remote sensing data, which is growing exponentially*. 
-2. *It does not justice the quality of remote sensing data, as well as the dimensionality and resolution of which is often beyond the processing capacity of the human visual system*. 
-3. *The inherent biases of the traditional approach are not overcome but rather reproduced on a larger scale. These limitations together give importance of applying computational approaches to remote sensing-based archaeological prospection. Among the ways of computational approaches, machine learning, which overcome most of the stated limitations, is the most suitable one for this project*. 
+- *It cannot handle the sheer quantity of available remote sensing data, which is growing exponentially*. 
+- *It does not justice the quality of remote sensing data, as well as the dimensionality and resolution of which is often beyond the processing capacity of the human visual system*. 
+- *The inherent biases of the traditional approach are not overcome but rather reproduced on a larger scale. These limitations together give importance of applying computational approaches to remote sensing-based archaeological prospection. Among the ways of computational approaches, machine learning, which overcome most of the stated limitations, is the most suitable one for this project*. 
 
+</br>
 Through a literature review for machine learning application in archaeology, it is found that the studies of this field are very limited (Refer to Table 1) and two major challenges for the application remain to be solved: 
-1. *The absence of large datasets with labeled archaeological objects*; 
-2. *The presence of hitherto unknown archaeological objects that have to be validated within the datasets. Additionally, both challenges require labor-intensive and time-consuming works, and the accuracy of the results might depend on the number of the interpreters*. 
+- *The absence of large datasets with labeled archaeological objects*; 
+- *The presence of hitherto unknown archaeological objects that have to be validated within the datasets. Additionally, both challenges require labor-intensive and time-consuming works, and the accuracy of the results might depend on the number of the interpreters*. 
 
 Having got an inspiration from the remote sensing and crowdsourcing applications on the search for MH370, this project is going to develop a tool for archaeological objects/features detection and then build a website for volunteer to improve the tool generating and validating parts of detections 
+</br>
 </br>
 
 ## Objectives and aims <a name="paragraph1"></a>
@@ -34,6 +36,7 @@ The general aim of the project is to integrate remote sensing, machine learning 
 - *Update the tool and website on labelled data from volunteers. The labelled data from volunteers will be used to train a convolutional neural network to systematically identify similar archaeological objects/features*;
 - *Enhance awareness and better protection of the archaeological relics directly through the involvement of the public, especially countries like Afghan, a country so divided (its cultural heritage is considered to be a key to economic development and be critical for a strong national identity)*.
 - *Generate two articles from the result of this project*.
+</br>
 </br>
 
 ## Theoretical Frame <a name="paragraph2"></a>
@@ -48,6 +51,7 @@ Machine Learning, the fourth class, is a new method in archaeological applicatio
 
 As for “crowdsourcing”, its definition is very broad, but it will be narrowed down into “volunteers help with scientific inquiry” in this project. Within archaeology, there exists cases involving volunteer in collection/ interpretation of datasets to deal with the bottleneck that professional can not solve. For example, in 2014, National Geographic set a crowdsourced search for Genghis Khan’s tomb. Over 10,000 volunteers gave contribution and 2.3 million potential archaeological objects were identified. A rather small-scale one is the Cotswold Escarpment project, in which six volunteers examined LiDAR data of an area of 100 km2 in South West England and identified over 260 objects. To sum up, the success of these project highlights the potential for integration of remote sensing and crowdsourcing in this project.
 </br>
+</br>
 
 ## Study Area <a name="paragraph3"></a>
 This project’s focus is to collect archaeological sites from different civilizations and to examine the similarities and relations among the sites. Thus, the study area of it should preferably be a general or conceptualized area including several civilizations but not an area of several km2 as habitat for Arabs or Chinese. 
@@ -55,6 +59,7 @@ This project’s focus is to collect archaeological sites from different civiliz
 Belt and Road could be taken into prior consideration. Theoretically, Belt and Road is considered to be an extended and revived version of the historic Silk Road which is a route of transportations and trade of goods and services across Eurasia. Apart from a network of trade routes, the ancient silk road is also one of major paths of cultural interaction and exchange among various civilization including Arabs, Chinese, Central Asians, Indians, and other Europeans. 
 
 Furthermore, remote sensing enables the data collection for sites which are hard to access. Along the ancient silk road, potential archaeological sites in countries, which today are facing or have suffered from armed conflicts and civil wars, are too dangerous for researcher to visit and are almost impossible to conduct field works. This dilemma can be overcame by using satellite images.
+</br>
 </br>
 
 ## Method <a name="paragraph4"></a>
@@ -96,6 +101,7 @@ New insight into the following objects could be discussed in the articles:
 
 5. The roles and the importance of crowdsourcing in the satellite archaeology.
 </br>
+</br>
 
 ## Limitation and Contingencies <a name="paragraph5"></a>
 
@@ -104,6 +110,7 @@ For study object, this project only focuses on visible archaeological objects/fe
 The result of this project highly depends on the selection and collection of training datasets which requires professional understandings of archaeological objects. Reviewing a large quantity of related literature or looking for existed related training datasets might be a way to minimize this limitation. 
 
 Furthermore, open-source policy, the privacy policy and other archaeological policy might limit parts of the implementation of this project. The related policy should be taken into consideration when developing the tool and building the website. 
+</br>
 </br>
 
 ## Reference <a name="paragraph6"></a>
