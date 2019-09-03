@@ -113,7 +113,7 @@ As for the training dataset, it will be collected based on the categories and la
 </br>
 - __*`Phase 3`: Automate archaeological object detection by using R-CNNs (or other methods)*__<a name="subparagraph3"></a>
 
-     A Matlab tool for “Similar-image search” for VHR satellite images in visible band will be created. Some websites about open-access visual search engine for satellite maps are listed below , which could be a reference:
+     A Matlab tool for “Similar-image search” for VHR satellite images in visible band will be created. Some websites about open-access visual search engine for satellite maps are listed below , which could be a reference.
 
 
 Authority | Source 
@@ -123,7 +123,8 @@ Descartes Labs | https://www.descarteslabs.com/
 
 
 </br>
-</br>     
+</br>
+
 - __*`Phase 4`: Build a website for tool presentation and data crowdsourcing*__<a name="subparagraph4"></a>
 
 A website is going to be built to show the tool in Phase 3 and the interface can refer to the above websites. The validation of archaeological objects/features should also be given same attention as find potential ones. Lambers (2019) argued the validation can be separated into three consecutive steps, which are desktop survey, initial field survey, and minimal invasive survey. However, because this project’s aim is not to fully validate the potential site, the validation here will only focus on the desktop survey - a function on the website for crowdsourcing (and commercial use) will be built. The collection of crowdsourcing data will be extended and updated constantly based on the validation of detections on the process. In another word, the labelled data from website users will be used to improve the deep learning-based detection algorithm. In addition, this project also looks forward to exchanging the training data with projects working in similar fields, which could be a more direct way to improve the algorithm.
