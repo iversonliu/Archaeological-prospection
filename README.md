@@ -1,33 +1,29 @@
 # Archaeological-prospection
 
-# Table of contents
-- [Introduction](#id-sec1)
-- [Objectives and aims](#id-sec2)
-- [Theoretical Frame](#id-sec3)
-- [Study Area](#id-sec4)
-- [Method](#id-sec5)
-- [Limitation and Contingencies](#id-sec6)
 
-<div id="id-sec1"/>
-## Introduction
+# Table of contents
+- [Introduction](#introduction)
+- [Objectives and aims](#paragraph1)
+- [Theoretical Frame](#paragraph2)
+- [Study Area](#paragraph3)
+- [Method](#paragraph4)
+- [Limitation and Contingencies](#paragraph5)
+
+
+## This is the introduction <a name="introduction"></a>
 Some introduction text, formatted in heading 2 style
 
-<div id="id-sec2"/>
-## Objectives and Aims
-T
+## Objectives and aims <a name="paragraph1"></a>
+The first paragraph text
 
-<div id="id-sec3"/>
-## Theoretical Frame
-T
+## Theoretical Frame <a name="paragraph2"></a>
+The second paragraph text
 
-<div id="id-sec4"/>
-## Study Area
-T
+## Study Area <a name="paragraph3"></a>
+The second paragraph text
 
-<div id="id-sec5"/>
-## Method 
-T
+## Method <a name="paragraph4"></a>
+The second paragraph text
 
-<div id="id-sec6"/>
-## Limitation and Contigencies
-T
+## Limitation and Contingencies <a name="paragraph5"></a>
+The second paragraph text
