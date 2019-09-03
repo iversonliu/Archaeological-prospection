@@ -1,6 +1,7 @@
-# Archaeological-prospection
+<img align="right" src="https://github.com/iversonliu/Archaeological-prospection/blob/master/logo1.PNG">
 
-# *Proposal (Lite)*
+# Archaeological-prospection (Lite)
+
 ## Table of contents
 - [Introduction](#introduction)
 - [Objectives and Aims](#paragraph1)
@@ -64,7 +65,10 @@ The general aim of the project is to integrate remote sensing, machine learning 
 </br>
 
 ## Theoretical Frame <a name="paragraph2"></a>
-Existed studies on archaeological object detection from remotely sensed data can be classified into four main classes, which are template matching-based, knowledge-based, object-based image analysis, and machine learning (Refer to Fig 1). 
+Existed studies on archaeological object detection from remotely sensed data can be classified into four main classes, which are template matching-based, knowledge-based, object-based image analysis, and machine learning. 
+<p align="center">
+  <img width="520" height= "200" src="https://github.com/iversonliu/Archaeological-prospection/blob/master/image/ResearchonAOD.png">
+</p>
 
 However, the first three classes all build on an explicit prior understanding of the target archaeological objects. In other words, they all rely on the detailed recording by prior discoveries which might harbor the following revealed bias during their implementation: 
 - *The often handcrafted algorithms are specialized in specific object categories and data sources, which restrict their use in different contexts and limits their usability in general for archaeological prospection*; 
@@ -83,6 +87,10 @@ This project’s focus is to collect archaeological sites from different civiliz
 Belt and Road could be taken into prior consideration. Theoretically, Belt and Road is considered to be an extended and revived version of the historic Silk Road which is a route of transportations and trade of goods and services across Eurasia. Apart from a network of trade routes, the ancient silk road is also one of major paths of cultural interaction and exchange among various civilization including Arabs, Chinese, Central Asians, Indians, and other Europeans. 
 
 Furthermore, remote sensing enables the data collection for sites which are hard to access. Along the ancient silk road, potential archaeological sites in countries, which today are facing or have suffered from armed conflicts and civil wars, are too dangerous for researcher to visit and are almost impossible to conduct field works. This dilemma can be overcame by using satellite images.
+<p align="center">
+  <img src="https://bit.ly/2krQqdB">
+</p>
+
 </br>
 </br>
 
@@ -115,12 +123,14 @@ As for the training dataset, it will be collected based on the categories and la
 
      A Matlab tool for “Similar-image search” for VHR satellite images in visible band will be created. Some websites about open-access visual search engine for satellite maps are listed below , which could be a reference.
 
-
 Authority | Source 
 --------- | ------
-Terrapattern(preferred) | http://www.terrapattern.com/ 
+Terrapattern (preferred) | http://www.terrapattern.com/ 
 Descartes Labs | https://www.descarteslabs.com/
 
+<p align="center">
+  <img width="580" height= "300" src="https://github.com/iversonliu/Archaeological-prospection/blob/master/image/examplefromTerrapattern.PNG">
+</p>
 
 </br>
 </br>
@@ -158,4 +168,13 @@ Furthermore, open-source policy, the privacy policy and other archaeological pol
 </br>
 
 ## Reference <a name="paragraph6"></a>
+- Lambers, K., Verschoof-van der Vaart, W., and Bourgeois, Q., 2019. Integrating Remote Sensing, Machine Learning, and Citizen Science in Dutch Archaeological Prospection. Remote Sensing, 11 (7), 794.
+
+- Parcak, S.H., 2009. Satellite remote sensing for archaeology. London; New York: Routledge.
+
+- Maurizio, F., and Stefano C., 2016. Digital methods and remote sensing in archaeology. New York, NY: Springer Berlin Heidelberg.
+
+- Øivind, D.T., David C.C., and Anders, U.W., 2018. Using deep neural networks on airborne laser scanning data: Results from a case study of semi‐automatic mapping of archaeological topography on Arran, Scotland. Archaeological Prospection. 26, 165-175
+
+- Islam, M.N., 2019. Silk road to belt road: reinventing the past and shaping the future. New York, NY: Springer Berlin Heidelberg.
 
