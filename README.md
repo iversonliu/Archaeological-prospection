@@ -15,13 +15,15 @@ How people interpret the visual world is a mixture of perception and comprehensi
 </br>
 
 There are some unavoidable limitations in this human-scale approach for archaeological object detection, which can be summarized as three parts. 
+
 - *It cannot handle the sheer quantity of available remote sensing data, which is growing exponentially*. 
 - *It does not justice the quality of remote sensing data, as well as the dimensionality and resolution of which is often beyond the processing capacity of the human visual system*. 
 - *The inherent biases of the traditional approach are not overcome but rather reproduced on a larger scale. These limitations together give importance of applying computational approaches to remote sensing-based archaeological prospection. Among the ways of computational approaches, machine learning, which overcome most of the stated limitations, is the most suitable one for this project*. 
 
 </br>
 Through a literature review for machine learning application in archaeology, it is found that the studies of this field are very limited (Refer to Table 1) and two major challenges for the application remain to be solved: 
-- *The absence of large datasets with labeled archaeological objects*; 
+
+- *The absence of large datasets with labeled archaeological objects* ;
 - *The presence of hitherto unknown archaeological objects that have to be validated within the datasets. Additionally, both challenges require labor-intensive and time-consuming works, and the accuracy of the results might depend on the number of the interpreters*. 
 
 Having got an inspiration from the remote sensing and crowdsourcing applications on the search for MH370, this project is going to develop a tool for archaeological objects/features detection and then build a website for volunteer to improve the tool generating and validating parts of detections 
@@ -30,6 +32,7 @@ Having got an inspiration from the remote sensing and crowdsourcing applications
 
 ## Objectives and aims <a name="paragraph1"></a>
 The general aim of the project is to integrate remote sensing, machine learning and crowdsourcing in archaeological prospection, and it can be separated in detail as following:
+
 - *Create a Matlab tool for “Similar-image search” for VHR satellite images in visible band. This tool will enable users to discover unmapped or unmappable “patterns of archaeological object or protected areas”*;
 - *Summarize the visible archaeological sites from different civilizations, and examining the similarities and relation among them*. 
 - *Build a website platform for volunteers, such as archaeologists, citizen scientists, humanitarian agencies, urban planners and other researchers, to generate and validate parts of detections of hitherto unknown archaeological objects. In the future, this platform is expected to satisfy the function like satellite image data exchange*;
