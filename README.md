@@ -17,14 +17,14 @@
 How people interpret the visual world is a mixture of perception and comprehension. Everyone’ eyes use their own unique “lens” providing them with a completely different perception to sense the surrounding world. However, the scientific laws by which the Earth is observed are immutable. Every landscape result from certain environmental and anthropogenic factors. Similar things affect satellite imagery, which enables space archaeologists to observe and manually mark potential archaeological objects in the satellite images by obeying the “laws”.
 </br>
 
-There are `some limitations in this human-scale approach for archaeological object detection`, which can be summarized as three parts. 
+There are some `limitations in this human-scale approach for archaeological object detection, which can be summarized as three parts`. 
 
 - *It cannot handle the sheer quantity of available remote sensing data, which is growing exponentially*. 
 - *It does not justice the quality of remote sensing data, as well as the dimensionality and resolution of which is often beyond the processing capacity of the human visual system*. 
 - *The inherent biases of the traditional approach are not overcome but rather reproduced on a larger scale. These limitations together give importance of applying computational approaches to remote sensing-based archaeological prospection. Among the ways of computational approaches, machine learning, which overcome most of the stated limitations, is the most suitable one for this project*. 
 
 </br>
-Through a literature review for machine learning application in archaeology, it is found that the studies of this field are very limited (Refer to Table 1) and two major challenges for the application remain to be solved: 
+Through a literature review for `machine learning application in archaeology`, it is found that the studies of this field are very limited (Refer to Table 1) and `two major challenges for the application remain to be solved`: 
 
 - *The absence of large datasets with labeled archaeological objects* ;
 - *The presence of hitherto unknown archaeological objects that have to be validated within the datasets. Additionally, both challenges require labor-intensive and time-consuming works, and the accuracy of the results might depend on the number of the interpreters*. 
@@ -69,25 +69,25 @@ Furthermore, remote sensing enables the data collection for sites which are hard
 </br>
 
 ## Method <a name="paragraph4"></a>
-- __*Phase 1: Get a broad understanding of cultural/landscape background and classify existing visible archaeological objects by different civilizations*__
+- __*`Phase 1`: Get a broad understanding of cultural/landscape background and classify existing visible archaeological objects by different civilizations*__
 
 The categories of civilizations’ visible archaeological objects will be fully discussed in this phase to overcome culture-based and landscape/environment-based problems. The importance of the discussion is that the core difference between this project and other machine learning projects which lies in the study objectives - visible archaeological objects from satellite image. Sarah (2010) in the book “Satellite Remote Sensing for Archaeology” argued that archaeological object types for satellite image analysis can be divided into settlements, linking, temporary, installation, agriculture, mortuary, religion and ceremonial. Lambers (2019) classified the archaeological objects into barrows, Celtic fields and charcoal kilns in his research in Veluwe. These classifications could be a reference for the classification of this project’s archaeological objects (training labels). Besides, some websites, which can provide the location of existing archaeological and heritage objects, are listed in the Table 2.
 
 It is note-worthy that environmental events (including natural disasters) in the landscape may cause ancient sites and features to be hidden from plain view. This environment-based problem needs to be taken into serious consideration. The solutions employed in the existed studies are listed in the following as a reference: (1) using infrared and thermal satellite bands to detect abnormal parts of vegetation index in satellite images; (2) finding areas with high possibility providing water and food sources as clues from the satellite images. 
 </br>
 
-- __*Phase 2: Collect remote sensing data and archaeological data to generate training dataset (input images and training dataset based on categories and labels)*__
+- __*`Phase 2`: Collect remote sensing data and archaeological data to generate training dataset (input images and training dataset based on categories and labels)*__
 
 The geographic location of the input images will be narrowed down according to the location of the civilizations along the ancient silk road (the scale of the location will also be discussed, e.g., nationally, regionally). Detailed information of input satellite image which includes its types, resolution, coordinate system will also be decided. In addition, it is recommended to create a table to present the characteristics of sensors for a better discussion (Refer to Table 3).
 As for the training dataset, it will be collected based on the categories and labels discussed in the Phase 1. In order to make it be more suitable for input images with different resolutions, spatial resolution of the training dataset will be collected hierarchically, like “100m-50m-10m”. 
 </br>
 
-- __*Phase 3: Automate archaeological object detection by using R-CNNs (or other methods)*__
+- __*`Phase 3`: Automate archaeological object detection by using R-CNNs (or other methods)*__
 
      A Matlab tool for “Similar-image search” for VHR satellite images in visible band will be created. Some websites about open-access visual search engine for satellite maps are listed below (Refer to Table 4), which could be a reference:
 </br>
      
-- __*Phase 4: Build a website for tool presentation and data crowdsourcing*__
+- __*`Phase 4`: Build a website for tool presentation and data crowdsourcing*__
 
 A website is going to be built to show the tool in Phase 3 and the interface can refer to the above websites. The validation of archaeological objects/features should also be given same attention as find potential ones. Lambers (2019) argued the validation can be separated into three consecutive steps, which are desktop survey, initial field survey, and minimal invasive survey. However, because this project’s aim is not to fully validate the potential site, the validation here will only focus on the desktop survey - a function on the website for crowdsourcing (and commercial use) will be built. The collection of crowdsourcing data will be extended and updated constantly based on the validation of detections on the process. In another word, the labelled data from website users will be used to improve the deep learning-based detection algorithm. In addition, this project also looks forward to exchanging the training data with projects working in similar fields, which could be a more direct way to improve the algorithm.
 
