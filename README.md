@@ -1,6 +1,6 @@
 # Archaeological-prospection
 
-# *Proposal (Lite Version)*
+# *Proposal (Lite)*
 ## Table of contents
 - [Introduction](#introduction)
 - [Objectives and Aims](#paragraph1)
@@ -81,25 +81,25 @@ The categories of civilizations’ visible archaeological objects will be fully 
 It is note-worthy that environmental events (including natural disasters) in the landscape may cause ancient sites and features to be hidden from plain view. This environment-based problem needs to be taken into serious consideration. The solutions employed in the existed studies are listed in the following as a reference: (1) using infrared and thermal satellite bands to detect abnormal parts of vegetation index in satellite images; (2) finding areas with high possibility providing water and food sources as clues from the satellite images. 
 </br>
 
-- __*`Phase 2`: Collect remote sensing data and archaeological data to generate training dataset (input images and training dataset based on categories and labels)*__
+- __*`Phase 2`: Collect remote sensing data and archaeological data to generate training dataset (input images and training dataset based on categories and labels)*__<a name="subparagraph2"></a>
 
 The geographic location of the input images will be narrowed down according to the location of the civilizations along the ancient silk road (the scale of the location will also be discussed, e.g., nationally, regionally). Detailed information of input satellite image which includes its types, resolution, coordinate system will also be decided. In addition, it is recommended to create a table to present the characteristics of sensors for a better discussion (Refer to Table 3).
 As for the training dataset, it will be collected based on the categories and labels discussed in the Phase 1. In order to make it be more suitable for input images with different resolutions, spatial resolution of the training dataset will be collected hierarchically, like “100m-50m-10m”. 
 </br>
 
-- __*`Phase 3`: Automate archaeological object detection by using R-CNNs (or other methods)*__
+- __*`Phase 3`: Automate archaeological object detection by using R-CNNs (or other methods)*__<a name="subparagraph3"></a>
 
      A Matlab tool for “Similar-image search” for VHR satellite images in visible band will be created. Some websites about open-access visual search engine for satellite maps are listed below (Refer to Table 4), which could be a reference:
 </br>
      
-- __*`Phase 4`: Build a website for tool presentation and data crowdsourcing*__
+- __*`Phase 4`: Build a website for tool presentation and data crowdsourcing*__<a name="subparagraph4"></a>
 
 A website is going to be built to show the tool in Phase 3 and the interface can refer to the above websites. The validation of archaeological objects/features should also be given same attention as find potential ones. Lambers (2019) argued the validation can be separated into three consecutive steps, which are desktop survey, initial field survey, and minimal invasive survey. However, because this project’s aim is not to fully validate the potential site, the validation here will only focus on the desktop survey - a function on the website for crowdsourcing (and commercial use) will be built. The collection of crowdsourcing data will be extended and updated constantly based on the validation of detections on the process. In another word, the labelled data from website users will be used to improve the deep learning-based detection algorithm. In addition, this project also looks forward to exchanging the training data with projects working in similar fields, which could be a more direct way to improve the algorithm.
 
 If possible, to make the website more user-friendly, some links which provides data source like historical, geo(morpho)logical, topographic maps, will be added into the website. This could act as a help for people who are interest in further validation.
 </br>
 
-- __*`Phase 5`: Finish the two articles for this project*__
+- __*`Phase 5`: Finish the two articles for this project*__<a name="subparagraph5"></a>
 
 New insight into the following objects could be discussed in the articles: 
 - *The number, distribution, and state of preservation of the visible archaeological objects/features*; 
