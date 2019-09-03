@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/iversonliu/Archaeological-prospection/blob/master/logo1.PNG">
 
-# Archaeological-prospection (Lite)
+# Archaeological-prospection Proposal (Lite)
 
 ## Table of contents
 - [Introduction](#introduction)
@@ -30,7 +30,7 @@ There are some `limitations in this human-scale approach for archaeological obje
 - *The inherent biases of the traditional approach are not overcome but rather reproduced on a larger scale. These limitations together give importance of applying computational approaches to remote sensing-based archaeological prospection. Among the ways of computational approaches, machine learning, which overcome most of the stated limitations, is the most suitable one for this project*. 
 
 </br>
-Through a literature review for `machine learning application in archaeology` , it is found that the studies of this field are very limited (Refer to Table 1) and `two major challenges for the application remain to be solved` : 
+Through a literature review for machine learning application in archaeology, it is found that the studies of this field are very limited and two major challenges for the application remain to be solved:
 
 - *The absence of large datasets with labeled archaeological objects* ;
 - *The presence of hitherto unknown archaeological objects that have to be validated within the datasets. Additionally, both challenges require labor-intensive and time-consuming works, and the accuracy of the results might depend on the number of the interpreters*. 
