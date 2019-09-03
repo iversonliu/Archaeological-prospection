@@ -7,6 +7,7 @@
 - [Theoretical Frame](#paragraph2)
 - [Study Area](#paragraph3)
 - [Method](#paragraph4)
+    - [Phase 1: Get a broad understanding of cultural/landscape background and classify existing visible archaeological objects by different civilizations](#subparagraph1)
 - [Limitation and Contingencies](#paragraph5)
 - [Reference](#paragraph6)
 
@@ -94,7 +95,7 @@ A website is going to be built to show the tool in Phase 3 and the interface can
 If possible, to make the website more user-friendly, some links which provides data source like historical, geo(morpho)logical, topographic maps, will be added into the website. This could act as a help for people who are interest in further validation.
 </br>
 
-- __*Phase 5: Finish the two articles for this project*__
+- __*`Phase 5`: Finish the two articles for this project*__
 
 New insight into the following objects could be discussed in the articles: 
 - *The number, distribution, and state of preservation of the visible archaeological objects/features*; 
