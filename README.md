@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/iversonliu/Archaeological-prospection/blob/master/image/logo1.PNG">
 
-# Archaeological-prospection Proposal (Lite)
+# Archaeological-prospection Proposal 
 
 ## Table of contents
 - [Introduction](#introduction)
@@ -20,7 +20,7 @@
 </br>
 
 ## Introduction <a name="introduction"></a>
-How people interpret the visual world is a mixture of perception and comprehension. Everyone’ eyes use their own unique “lens” providing them with a completely different perception to sense the surrounding world. However, the scientific laws by which the Earth is observed are immutable. Every landscape result from certain environmental and anthropogenic factors. Similar things affect satellite imagery, which enables space archaeologists to observe and manually mark potential archaeological objects in the satellite images by obeying the “laws”.
+How people interpret the visual world is a mixture of perception and comprehension. Everyone’ eyes use their own unique “lens” providing them with a completely different perception to sense the surrounding world. What one archaeologist see as a stable, another would see as a storehouse. However, the scientific laws by which the Earth is observed are immutable. Every landscape result from certain environmental and anthropogenic factors. Similar things affect satellite imagery, which enables space archaeologists to observe and manually mark potential archaeological objects in the satellite images by obeying the “laws”.
 </br>
 
 There are some `limitations in this human-scale approach for archaeological object detection, which can be summarized as three parts`. 
@@ -70,7 +70,7 @@ Existed studies on archaeological object detection from remotely sensed data can
   <img width="520" height= "200" src="https://github.com/iversonliu/Archaeological-prospection/blob/master/image/ResearchonAOD.png">
 </p>
 
-However, the first three classes all build on an explicit prior understanding of the target archaeological objects. In other words, they all rely on the detailed recording by prior discoveries which might harbor the following revealed bias during their implementation: 
+Template matching is a technique in digital image processing for finding small parts of an image which match a template image. Most of the current archaeological object detection algorithm are based on template matching. The popularity of this method is because the geometric shapes, such as circles and rectangles, are common in the archaeological objects but rare in the nature. Knowledge-based classes includes algorithms that require detailed knowledge about the expected objects and their surroundings. Due to the highly case-specific requirements, the knowledge-based class is not so commonly used in the archaeology. OBIA-based method, which uses image segmentation, is considered to be more flexible and gained common use in several case studies. However, the stated three classes all build on an explicit prior understanding of the target archaeological objects. In other words, they all rely on the detailed recording by prior discoveries which might harbor the following revealed bias during their implementation: 
 - *The often handcrafted algorithms are specialized in specific object categories and data sources, which restrict their use in different contexts and limits their usability in general for archaeological prospection*; 
 - *Templates and characteristic spatial attributes are often difficult to define for heterogeneous archaeological objects, especially if these have been altered by various natural and anthropogenic processes over time*; 
 - *These approaches are predominantly complex algorithms that can require a high level of expertise, and are regularly dependent on expensive software*.
