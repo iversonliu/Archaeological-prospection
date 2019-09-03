@@ -7,7 +7,11 @@
 - [Theoretical Frame](#paragraph2)
 - [Study Area](#paragraph3)
 - [Method](#paragraph4)
-    - [Phase 1: Get a broad understanding of cultural/landscape background and classify existing visible archaeological objects by different civilizations](#subparagraph1)
+    - [Phase 1: Get a broad understanding](#subparagraph1)
+    - [Phase 2: Collect data](#subparagraph2)
+    - [Phase 3: Automate archaeological object detection](#subparagraph3)
+    - [Phase 4: Build a website](#subparagraph4)
+    - [Phase 5: Finish the two articles for this project](#subparagraph5)
 - [Limitation and Contingencies](#paragraph5)
 - [Reference](#paragraph6)
 
@@ -70,7 +74,7 @@ Furthermore, remote sensing enables the data collection for sites which are hard
 </br>
 
 ## Method <a name="paragraph4"></a>
-- __*`Phase 1`: Get a broad understanding of cultural/landscape background and classify existing visible archaeological objects by different civilizations*__
+- __*`Phase 1`: Get a broad understanding of cultural/landscape background and classify existing visible archaeological objects by different civilizations*__<a name="subparagraph1"></a>
 
 The categories of civilizations’ visible archaeological objects will be fully discussed in this phase to overcome culture-based and landscape/environment-based problems. The importance of the discussion is that the core difference between this project and other machine learning projects which lies in the study objectives - visible archaeological objects from satellite image. Sarah (2010) in the book “Satellite Remote Sensing for Archaeology” argued that archaeological object types for satellite image analysis can be divided into settlements, linking, temporary, installation, agriculture, mortuary, religion and ceremonial. Lambers (2019) classified the archaeological objects into barrows, Celtic fields and charcoal kilns in his research in Veluwe. These classifications could be a reference for the classification of this project’s archaeological objects (training labels). Besides, some websites, which can provide the location of existing archaeological and heritage objects, are listed in the Table 2.
 
