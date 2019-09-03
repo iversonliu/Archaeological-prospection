@@ -1,7 +1,7 @@
 # Archaeological-prospection
 
-# Proposal (Lite Version)
-# Table of contents
+# *Proposal (Lite Version)*
+## Table of contents
 - [Introduction](#introduction)
 - [Objectives and Aims](#paragraph1)
 - [Theoretical Frame](#paragraph2)
@@ -10,11 +10,14 @@
 - [Limitation and Contingencies](#paragraph5)
 - [Reference](#paragraph6)
 
+</br>
+</br>
+
 ## Introduction <a name="introduction"></a>
 How people interpret the visual world is a mixture of perception and comprehension. Everyone’ eyes use their own unique “lens” providing them with a completely different perception to sense the surrounding world. However, the scientific laws by which the Earth is observed are immutable. Every landscape result from certain environmental and anthropogenic factors. Similar things affect satellite imagery, which enables space archaeologists to observe and manually mark potential archaeological objects in the satellite images by obeying the “laws”.
 </br>
 
-There are some unavoidable limitations in this human-scale approach for archaeological object detection, which can be summarized as three parts. 
+There are `some limitations in this human-scale approach for archaeological object detection`, which can be summarized as three parts. 
 
 - *It cannot handle the sheer quantity of available remote sensing data, which is growing exponentially*. 
 - *It does not justice the quality of remote sensing data, as well as the dimensionality and resolution of which is often beyond the processing capacity of the human visual system*. 
@@ -94,15 +97,15 @@ If possible, to make the website more user-friendly, some links which provides d
 - __*Phase 5: Finish the two articles for this project*__
 
 New insight into the following objects could be discussed in the articles: 
-1. The number, distribution, and state of preservation of the visible archaeological objects/features; 
+- *The number, distribution, and state of preservation of the visible archaeological objects/features*; 
 
-2. Find the relations and similarities among landscape patterns of different civilizations; 
+- *Find the relations and similarities among landscape patterns of different civilizations*; 
 
-3. Explore the way to automatic detect archaeological objects/features hidden in forest or examine the impact of forests on the protection of archaeological objects/features; 
+- *Explore the way to automatic detect archaeological objects/features hidden in forest or examine the impact of forests on the protection of archaeological objects/features*; 
 
-4. Policy for better preserving and monitoring of these objects which can answer different questions from urban planner, citizen scientist and other groups; 
+- *Policy for better preserving and monitoring of these objects which can answer different questions from urban planner, citizen scientist and other groups*; 
 
-5. The roles and the importance of crowdsourcing in the satellite archaeology.
+- *The roles and the importance of crowdsourcing in the satellite archaeology*.
 </br>
 </br>
 
