@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/iversonliu/Archaeological-prospection/blob/master/logo1.PNG">
+<img align="right" src="https://github.com/iversonliu/Archaeological-prospection/blob/master/image/logo1.PNG">
 
 # Archaeological-prospection Proposal (Lite)
 
