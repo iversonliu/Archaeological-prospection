@@ -103,12 +103,12 @@ The categories of civilizations’ visible archaeological objects will be `fully
 
 Region/Country | Authority | Source 
 ---------------| --------- | ------
-World | UN Environment | https://www.protectedplanet.net/
-World | UNESCO World Heritage Center | http://whc.unesco.org/en/list
-England | Natural England | https://magic.defra.gov.uk/
-England | Historic England | http://www.HistoricEngland.org.uk.
-Scottish | Scottish Natural Heritage | https://gateway.snh.gov.uk/natural-spaces/
-Greece | Ancient-Greece | https://ancient-greece.org/map.html
+World | *UN Environment* | https://www.protectedplanet.net/
+World | *UNESCO World Heritage Center* | http://whc.unesco.org/en/list
+England | *Natural England* | https://magic.defra.gov.uk/
+England | *Historic England* | http://www.HistoricEngland.org.uk.
+Scottish | *Scottish Natural Heritage* | https://gateway.snh.gov.uk/natural-spaces/
+Greece | *Ancient-Greece* | https://ancient-greece.org/map.html
 
 
 
