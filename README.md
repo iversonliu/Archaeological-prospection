@@ -13,8 +13,9 @@
     - [Phase 3: Automate archaeological object detection](#subparagraph3)
     - [Phase 4: Build a website](#subparagraph4)
     - [Phase 5: Finish the two articles for this project](#subparagraph5)
-- [Limitation and Contingencies](#paragraph5)
-- [Reference](#paragraph6)
+- [Expected Commercial Outputs](#paragraph5)
+- [Limitation and Contingencies](#paragraph6)
+- [Reference](#paragraph7)
 
 </br>
 </br>
@@ -87,6 +88,7 @@ This project’s focus is to collect archaeological sites from different civiliz
 `Belt and Road` could be taken into prior consideration. Theoretically, Belt and Road is considered to be an extended and revived version of the historic Silk Road which is a route of transportations and trade of goods and services across Eurasia. Apart from a network of trade routes, the ancient silk road is also one of major paths of cultural interaction and exchange among various civilization including Arabs, Chinese, Central Asians, Indians, and other Europeans. 
 
 Furthermore, remote sensing enables the data collection for sites which are hard to access. Along the ancient silk road, potential archaeological sites in countries, which today are facing or have suffered from armed conflicts and civil wars, are too dangerous for researcher to visit and are almost impossible to conduct field works. This dilemma can be overcame by using satellite images.
+
 <p align="center">
   <img src="https://bit.ly/2krQqdB">
 </p>
@@ -157,7 +159,20 @@ New insight into the following objects could be discussed in the articles:
 </br>
 </br>
 
-## Limitation and Contingencies <a name="paragraph5"></a>
+## Expected Commercial Outputs <a name="paragraph5"></a>
+The expected output of this project are as follows: 
+
+- *Offer some of satellite image datasets for sale (e.g., user draws a polygon on the website’s map to create a ROI and then we provide the datasets based on the ROI)*;
+
+- *Establish cooperation with other companies or schools for paid technology sharing*;
+
+- *Provide professional solution for related projects (e.g., help land use manager or urban planner to identify areas with potential archaeological objects/features for better heritage protection; resolve inconsistence between source and optimize the structure of the data for computational performance)*;
+
+- *Create a blog/news block and get paid advertising from this block*.
+</br>
+</br>
+
+## Limitation and Contingencies <a name="paragraph6"></a>
 
 For study object, this project only focuses on visible archaeological objects/features. However, there are massive archaeological objects/features which has been buried under the ground. With technology available, whether it is worthy for us to use other band to detect these buried ones in a large-scale need further discussion. 
 
@@ -167,7 +182,7 @@ Furthermore, open-source policy, the privacy policy and other archaeological pol
 </br>
 </br>
 
-## Reference <a name="paragraph6"></a>
+## Reference <a name="paragraph7"></a>
 - Lambers, K., Verschoof-van der Vaart, W., and Bourgeois, Q., 2019. Integrating Remote Sensing, Machine Learning, and Citizen Science in Dutch Archaeological Prospection. Remote Sensing, 11 (7), 794.
 
 - Parcak, S.H., 2009. Satellite remote sensing for archaeology. London; New York: Routledge.
