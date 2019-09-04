@@ -183,13 +183,13 @@ Furthermore, open-source policy, the privacy policy and other archaeological pol
 </br>
 
 ## Reference <a name="paragraph7"></a>
-- Lambers, K., Verschoof-van der Vaart, W., and Bourgeois, Q., 2019. Integrating Remote Sensing, Machine Learning, and Citizen Science in Dutch Archaeological Prospection. Remote Sensing, 11 (7), 794.
+- *Lambers, K., Verschoof-van der Vaart, W., and Bourgeois, Q., 2019. Integrating Remote Sensing, Machine Learning, and Citizen Science in Dutch Archaeological Prospection. Remote Sensing, 11 (7), 794*.
 
-- Parcak, S.H., 2009. Satellite remote sensing for archaeology. London; New York: Routledge.
+- *Parcak, S.H., 2009. Satellite remote sensing for archaeology. London; New York: Routledge*.
 
-- Maurizio, F., and Stefano C., 2016. Digital methods and remote sensing in archaeology. New York, NY: Springer Berlin Heidelberg.
+- *Maurizio, F., and Stefano C., 2016. Digital methods and remote sensing in archaeology. New York, NY: Springer Berlin Heidelberg*.
 
-- Øivind, D.T., David C.C., and Anders, U.W., 2018. Using deep neural networks on airborne laser scanning data: Results from a case study of semi‐automatic mapping of archaeological topography on Arran, Scotland. Archaeological Prospection. 26, 165-175
+- *Øivind, D.T., David C.C., and Anders, U.W., 2018. Using deep neural networks on airborne laser scanning data: Results from a case study of semi‐automatic mapping of archaeological topography on Arran, Scotland. Archaeological Prospection. 26, 165-175*.
 
-- Islam, M.N., 2019. Silk road to belt road: reinventing the past and shaping the future. New York, NY: Springer Berlin Heidelberg.
+- *Islam, M.N., 2019. Silk road to belt road: reinventing the past and shaping the future. New York, NY: Springer Berlin Heidelberg*.
 
