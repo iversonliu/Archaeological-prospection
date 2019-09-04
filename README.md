@@ -40,15 +40,15 @@ Having got an inspiration from the remote sensing and crowdsourcing applications
 
 Year | Article
 -----| -------
-2009 | Automatic Detection of Circular Structuresin High-resolution Satellite Images of Agricultural Land
-2012 | Automatic Detection of Pit Structures in Airborne Laser Scanning Data
-2016 | Semi-Automated Detection of Fragmented Rectangular Structures in High Resolution Remote Sensing Images with Application in Archaeology
-2016 | Detection of Fragmented Rectangular Enclosures in Very High-Resolution Remote Sensing Images
-2017 | Detecting Neolithic Burial Mounds from LiDAR-Derived Elevation Data Using a Multi-Scale Approach and Machine Learning Techniques
-2018 | Using deep neural networks on airborne laser scanning data: Results from a case study of semi‐automatic mapping of archaeological topography on Arran, Scotland
-2019 | Learning to look at LiDAR. The use of R-CNN in the automated detection of archaeological objects in LiDAR data from The Netherlands
-2019 | Integrating Remote Sensing, Machine Learning, and citizen science in Dutch Archaeological Prospection
-2019 | Convolutional neural networks for archaeological site detection – Finding “princely” tombs
+*2009* | Automatic Detection of Circular Structuresin High-resolution Satellite Images of Agricultural Land
+*2012* | Automatic Detection of Pit Structures in Airborne Laser Scanning Data
+*2016* | Semi-Automated Detection of Fragmented Rectangular Structures in High Resolution Remote Sensing Images with Application in Archaeology
+*2016* | Detection of Fragmented Rectangular Enclosures in Very High-Resolution Remote Sensing Images
+*2017* | Detecting Neolithic Burial Mounds from LiDAR-Derived Elevation Data Using a Multi-Scale Approach and Machine Learning Techniques
+*2018* | Using deep neural networks on airborne laser scanning data: Results from a case study of semi‐automatic mapping of archaeological topography on Arran, Scotland
+*2019* | Learning to look at LiDAR. The use of R-CNN in the automated detection of archaeological objects in LiDAR data from The Netherlands
+*2019* | Integrating Remote Sensing, Machine Learning, and citizen science in Dutch Archaeological Prospection
+*2019* | Convolutional neural networks for archaeological site detection – Finding “princely” tombs
 
 </br>
 </br>
