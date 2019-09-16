@@ -6,4 +6,6 @@
 
 4. 展示深度学习在考古的进一步应用：观测文化遗址的保护情况（如寺庙），模仿的具体案例：商汤科技SensingEarth中的Change Detection（示例详见video 3)；用计算机视觉深度学习探索具体文物，如：在兵马俑上的应用。
 
+5. 叠加一些地理信息层，具体效果可以参考船讯网（http://www.shipxy.com/）
+
 video链接：https://www.bilibili.com/video/av67778644
